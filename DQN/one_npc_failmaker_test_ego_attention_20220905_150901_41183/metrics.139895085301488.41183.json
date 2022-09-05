@@ -1,0 +1,18 @@
+{
+    "arrived": {
+        "ego": 239,
+        "npc_1": 178
+    },
+    "crashes": {
+        "ego": 4,
+        "npc_1": 4
+    },
+    "dones": {
+        "ego": 240,
+        "npc_1": 179
+    },
+    "duration_exceeded": {
+        "ego": 0,
+        "npc_1": 0
+    }
+}

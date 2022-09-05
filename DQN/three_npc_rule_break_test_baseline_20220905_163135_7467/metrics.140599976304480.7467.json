@@ -1,0 +1,26 @@
+{
+    "arrived": {
+        "ego": 413,
+        "npc_1": 11,
+        "npc_2": 33,
+        "npc_3": 16
+    },
+    "crashes": {
+        "ego": 29,
+        "npc_1": 25,
+        "npc_2": 5,
+        "npc_3": 11
+    },
+    "dones": {
+        "ego": 441,
+        "npc_1": 98,
+        "npc_2": 97,
+        "npc_3": 84
+    },
+    "duration_exceeded": {
+        "ego": 67,
+        "npc_1": 67,
+        "npc_2": 67,
+        "npc_3": 67
+    }
+}

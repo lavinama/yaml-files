@@ -1,0 +1,14 @@
+{
+    "arrived": {
+        "ego": 10
+    },
+    "crashes": {
+        "ego": 0
+    },
+    "dones": {
+        "ego": 10
+    },
+    "duration_exceeded": {
+        "ego": 0
+    }
+}
